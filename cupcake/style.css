@@ -1,0 +1,18 @@
+html {
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: monospace, sans-serif, cursive;
+    width: 80%;
+    margin:auto;
+    text-align: center;
+    
+}
+h1 { color: darkslategrey;}
+
+.list { display: inline-block;} 
+
+.dir { text-align: left; }
+
+.foto { border-radius: 20px;
+      border: 100px whole black;
+}
